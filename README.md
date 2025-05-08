@@ -8,7 +8,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.<br>
 Sou apaixonado por tecnologia e estou sempre em busca de aprimorar meus conhecimentos e habilidades na área.
 </p>
 <p align="left">
-  <a href="mailto:henricorrea2005@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:henricorrea2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/henri2k5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
