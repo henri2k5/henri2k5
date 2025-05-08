@@ -1,14 +1,21 @@
 <h1 align="left">
   💻 Sobre mim
 </h1>
+
 <p align="left">
-Olá meu nome é Henri corrêa👋<br>
-Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas<br>
-Estou sempre buscando aprimorar meus conhecimentos e habilidades no ramo de tecnologia
+Olá! Meu nome é Henri Corrêa 👋<br>
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.<br>
+Sou apaixonado por tecnologia e estou sempre em busca de aprimorar meus conhecimentos e habilidades na área.
 </p>
+<p align="left">
+  <a href="mailto:henricorrea2005@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/henri2k5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
 <h2 align="left">
   🛠️Tecnologias e Ferramentas
 </h2>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" alt="VS Code logo"  />
   <img width="12" />
@@ -33,6 +40,16 @@ Estou sempre buscando aprimorar meus conhecimentos e habilidades no ramo de tecn
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="50" alt="markdown logo"  />
   <img width="12" />
 </div>
-<br>
-Fique a vontade para explorar meus projetos!
 
+<h2 align="left">
+  📊 GitHub Stats
+</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henri2k5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henri2k5&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<br>
+
+<p align="center"> Fique a vontade para explorar meus projetos! </p>
+<p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
